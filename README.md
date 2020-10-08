@@ -21,8 +21,8 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.DEVBenSon.com.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/DEVBenSon">Twitter</a></strong> |
+  <strong><a href="https://www.DEVBenSon.com">Official Website</a></strong> |
+  <strong><a href="https://twitter.com/XTBenSon">Twitter</a></strong> |
   <strong><a href="https://discord.gg/M9wdwwf">Discord</a></strong> |
   <strong><a href="https://www.twitch.tv/DEVBenSon">Twitch</a></strong>
 </p>
