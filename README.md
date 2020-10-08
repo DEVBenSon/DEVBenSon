@@ -26,7 +26,7 @@
   <strong><a href="https://discord.gg/M9wdwwf">Discord</a></strong> |
   <strong><a href="https://www.twitch.tv/DEVBenSon">Twitch</a></strong>
 </p>
-<small align="center"> A summary of what people think about me: "Benson is a whiney,inpatient,extremely emotional and sensitive, easily angered, stubborn,smart,early bird, he picks up on things really fast, pays attention to details and handsome. He is loyal to the ones he loves but if betrayed he will never forgive." </small>
+<small align="center"> What most people say: "Benson is a whiney,inpatient,extremely emotional and sensitive, easily angered, stubborn,smart,early bird, he picks up on things really fast, pays attention to details and handsome. He is loyal to the ones he loves but if betrayed he will never forgive." </small>
 
 <br><a href="https://github.com/DEVBenSon/pterodactyl-eggs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVBenSon&repo=pterodactyl-eggs" />
