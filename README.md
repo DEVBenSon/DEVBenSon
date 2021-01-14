@@ -32,6 +32,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVBenSon&repo=pterodactyl-eggs" />
 </a>
 <a href="https://github.com/vilhelmprytz/pterodactyl-installer">
-  <img align="center" src="https://github.com/vilhelmprytz/pterodactyl-installer" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vilhelmprytz&repo=pterodactyl-installer" />
 </a>
 <p align="center">I'm currently studying at university. So DON'T bother me!</p>
