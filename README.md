@@ -31,7 +31,7 @@
 <br><a href="https://github.com/DEVBenSon/pterodactyl-eggs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVBenSon&repo=pterodactyl-eggs" />
 </a>
-<a href="https://github.com/DEVBenSon/FiveM-Car-Packs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DEVBenSon&repo=FiveM-Car-Packs" />
+<a href="https://github.com/vilhelmprytz/pterodactyl-installer">
+  <img align="center" src="https://github.com/vilhelmprytz/pterodactyl-installer" />
 </a>
 <p align="center">I'm currently studying at university. So DON'T bother me!</p>
