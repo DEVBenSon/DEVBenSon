@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://www.xevotech.com">Official Website</a></strong> |
+  <strong><a href="https://xevotech.com">Official Website</a></strong> |
   <strong><a href="https://twitter.com/XTBenSon">Twitter</a></strong> |
   <strong><a href="https://discord.gg/M9wdwwf">Discord</a></strong> |
   <strong><a href="https://www.twitch.tv/DEVBenSon">Twitch</a></strong>
